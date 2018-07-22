@@ -1,0 +1,14 @@
+/Users/katherinehanson/Projects/JWT/bin/Debug/netcoreapp2.1/JWT.deps.json
+/Users/katherinehanson/Projects/JWT/bin/Debug/netcoreapp2.1/JWT.runtimeconfig.json
+/Users/katherinehanson/Projects/JWT/bin/Debug/netcoreapp2.1/JWT.runtimeconfig.dev.json
+/Users/katherinehanson/Projects/JWT/bin/Debug/netcoreapp2.1/JWT.dll
+/Users/katherinehanson/Projects/JWT/bin/Debug/netcoreapp2.1/JWT.pdb
+/Users/katherinehanson/Projects/JWT/obj/Debug/netcoreapp2.1/JWT.csprojResolveAssemblyReference.cache
+/Users/katherinehanson/Projects/JWT/obj/Debug/netcoreapp2.1/JWT.csproj.CoreCompileInputs.cache
+/Users/katherinehanson/Projects/JWT/obj/Debug/netcoreapp2.1/JWT.RazorAssemblyInfo.cache
+/Users/katherinehanson/Projects/JWT/obj/Debug/netcoreapp2.1/JWT.RazorAssemblyInfo.cs
+/Users/katherinehanson/Projects/JWT/obj/Debug/netcoreapp2.1/JWT.AssemblyInfoInputs.cache
+/Users/katherinehanson/Projects/JWT/obj/Debug/netcoreapp2.1/JWT.AssemblyInfo.cs
+/Users/katherinehanson/Projects/JWT/obj/Debug/netcoreapp2.1/JWT.RazorTargetAssemblyInfo.cache
+/Users/katherinehanson/Projects/JWT/obj/Debug/netcoreapp2.1/JWT.dll
+/Users/katherinehanson/Projects/JWT/obj/Debug/netcoreapp2.1/JWT.pdb
